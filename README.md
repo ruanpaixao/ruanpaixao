@@ -50,10 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ruanpaixao/ruanpaixao/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Social Media</h2>
 
 ###
