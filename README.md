@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Soldado da Força Aérea Brasileira 👨🏻‍✈️<br>Estudante de TI 👨🏻‍💻<br>Jogador Casual de Bomba Patch 🎮</p>
+<p align="center">Soldado da Força Aérea Brasileira 👨🏻‍✈️<br>Técnico de Informática para Internet👨🏻‍💻<br>Aluno de ADS 📕<br>Jogador de Counter-Strike ⚔️</p>
 
 ###
 
